@@ -1,0 +1,6 @@
+{
+  "name": "The Roastery Club",
+  "description": "Artisanal coffee roastery, hand-crafted specialty brews, bakery pairings, table reservations, and digital ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
